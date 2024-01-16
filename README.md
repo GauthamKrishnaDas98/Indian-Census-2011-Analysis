@@ -1,5 +1,5 @@
 # Indian-Census-2011-Analysis
-![project image2](/main/image/census-1612944696.jpg) 
+![project image2](https://github.com/GauthamKrishnaDas98/GauthamKrishnaDas98.github.io/blob/main/image/census-1612944696.jpg) 
 # Overview
 This repository contains an SQL project that analyzes the Indian Census 2011 dataset. The project focuses on extracting valuable insights related to demographic factors, literacy rates, growth rates, sex ratios, and population density across different states in India.
 
@@ -21,11 +21,10 @@ Total Male and Female Population: Break down the population by gender to underst
 Population Per Area: Analyze population density by calculating the population per unit area for each state.
 
 Project Structure
-Queries: Stores specific SQL queries used in the analysis.
-Data:: Placeholder for the Indian Census 2011 dataset or a link to the dataset source.
-README.md: Detailed documentation providing information on the dataset, schema, and instructions for running the SQL scripts.
-Getting Started
-Data Source:[https://www.census2011.co.in/district.php]
+- Queries: Stores specific SQL queries used in the analysis.
+- Data:: Placeholder for the Indian Census 2011 dataset or a link to the dataset source.
+- README.md: Detailed documentation providing information on the dataset, schema, and instructions for running the SQL scripts.
+- Data Source:[https://www.census2011.co.in/district.php]
             [https://www.census2011.co.in/literacy.php]
 
 
