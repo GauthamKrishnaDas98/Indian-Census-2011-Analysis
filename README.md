@@ -2,6 +2,8 @@
 # Overview
 This repository contains an SQL project that analyzes the Indian Census 2011 dataset. The project focuses on extracting valuable insights related to demographic factors, literacy rates, growth rates, sex ratios, and population density across different states in India.
 
+Tools Used: SQL Server
+
 Key Objectives
 Average Literacy Rate by State: Calculate and analyze the average literacy rate for each state.
 
