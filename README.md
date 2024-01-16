@@ -1,4 +1,5 @@
 # Indian-Census-2011-Analysis
+![project image2](/image/census-1612944696.jpg) 
 # Overview
 This repository contains an SQL project that analyzes the Indian Census 2011 dataset. The project focuses on extracting valuable insights related to demographic factors, literacy rates, growth rates, sex ratios, and population density across different states in India.
 
